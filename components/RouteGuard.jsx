@@ -45,4 +45,4 @@ function RouteGuard({ children }) {
     }
 
     return (authorized && children);
-};
+}
